@@ -22,7 +22,7 @@ public class Seconds {
 
         int seconds = totalSeconds % 60;
 //
-        System.out.println("The total amount of seconds is " + totalSeconds + ",so" + " it is "
+        System.out.println("The total amount of seconds is " + totalSeconds + ",so it is "
                 + hours + " hours, " + minutes + " minutes, " + seconds + " seconds.");
     }
 }
